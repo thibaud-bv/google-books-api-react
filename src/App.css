@@ -1,0 +1,31 @@
+@keyframes rainbow-text-white {
+    0% {color: rgba(224, 255, 255);}
+    25% {color: rgba(255, 224, 224);}
+    50% {color: rgba(255, 255, 224);}
+    75% {color: rgba(224, 255, 224);}
+    100% {color: rgba(224, 255, 255);}
+}
+
+@keyframes rainbow-background {
+    0% {background-color: rgba(0, 0, 255, 0.2);}
+    25% {background-color: rgba(255, 0, 0, 0.2);}
+    50% {background-color: rgba(255, 255, 0, 0.2);}
+    75% {background-color: rgba(0, 255, 0, 0.2);}
+    100% {background-color: rgba(0, 0, 255, 0.2);}
+}
+
+@keyframes rainbow-text-light {
+    0% {color: rgba(128, 128, 255, 0.2);}
+    25% {color: rgba(255, 128, 128, 0.2);}
+    50% {color: rgba(255, 255, 0, 0.2);}
+    75% {color: rgba(0, 255, 0, 0.2);}
+    100% {color: rgba(128, 128, 255, 0.2);}
+}
+
+@keyframes rainbow-text-dark {
+    0% {color: rgb(0, 0, 96);}
+    25% {color: rgba(96, 0, 0);}
+    50% {color: rgba(96, 96, 0);}
+    75% {color: rgba(0, 96, 0);}
+    100% {color: rgba(0, 0, 96);}
+}

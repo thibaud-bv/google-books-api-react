@@ -1,0 +1,16 @@
+.App-paginator {
+  background-color: #000000;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  user-select: none;
+  animation: rainbow-text-white 10s infinite;
+}
+
+.btn{
+  cursor: pointer;
+}
